@@ -1,1 +1,2 @@
 Hello from my Desktop!
+Hello from EC2!
